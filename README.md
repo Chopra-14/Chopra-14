@@ -24,12 +24,12 @@
 
 ```yaml
 
-## name: Konakalla Chopra Lakshmi Sathvika
-## role: Data Analyst | AI & ML Undergraduate
-## education: "B.Tech AI & ML, Aditya University | GPA: 9.06 | 2023 - 2027"
-## experience: "Data Specialist Intern @ Technical Hub Pvt. Ltd."
-## focus: "Data Analytics · Dashboards · Business Intelligence · Automation"
-## fun_fact: "Maintains 60+ GitHub repos spanning AI, analytics & full-stack"
+name: Konakalla Chopra Lakshmi Sathvika
+role: Data Analyst | AI & ML Undergraduate
+education: "B.Tech AI & ML, Aditya University | GPA: 9.06 | 2023 - 2027"
+experience: "Data Specialist Intern @ Technical Hub Pvt. Ltd."
+focus: "Data Analytics · Dashboards · Business Intelligence · Automation"
+fun_fact: "Maintains 60+ GitHub repos spanning AI, analytics & full-stack"
 
 ```
 
