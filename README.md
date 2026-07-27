@@ -1,209 +1,187 @@
-# 👋 Konakalla Chopra Lakshmi Sathvika
+<div align="center">
 
-> **Data Analyst • AI & ML Undergraduate • Full-Stack Developer**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9A7&height=250&section=header&animation=fadeIn" />
 
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9A7&height=240&section=header&text=Sathvika&fontSize=48&fontColor=ffffff&animation=fadeIn"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Data+Analyst;AI+%26+ML+Student;Building+AI+Powered+Solutions;Turning+Data+Into+Insights"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="mailto:sathvikakonakalla14@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/chopra-lakshmi-sathvika-konakalla-884071291/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/Chopra-14">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sathvika+%F0%9F%91%8B;Data+Analyst+%7C+AI+%26+ML+Student;Turning+Raw+Data+into+Insights;Welcome+to+my+GitHub+%E2%9C%A8" alt="Typing SVG" />
 
-------------------------------------------------------------------------
+<br/>
 
-# 🖥️ Terminal
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
 
-``` bash
-$ whoami
+<br/>
 
-Name        : Konakalla Chopra Lakshmi Sathvika
-Degree      : B.Tech AI & ML
-University  : Aditya University
-CGPA        : 9.06
-Role        : Data Analyst | AI & ML Student
+<a href="https://www.linkedin.com/in/chopra-lakshmi-sathvika-konakalla-884071291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sathvikakonakalla14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Chopra-14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-Current Focus
--------------
-✓ Data Analytics
-✓ Artificial Intelligence
-✓ Data Engineering
-✓ Workflow Automation
-✓ Full Stack Development
+<img src="https://komarev.com/ghpvc/?username=Chopra-14&style=for-the-badge&color=6A5ACD" alt="profile views" />
+
+</div>
+
+<br/>
+
+## 🧭 About Me
+
+```yaml
+name: Konakalla Chopra Lakshmi Sathvika
+role: Data Analyst | AI & ML Undergraduate
+education: "B.Tech AI & ML, Aditya University | GPA: 9.06 | 2023 - 2027"
+experience: "Data Specialist Intern @ Technical Hub Pvt. Ltd."
+focus: "Data Analytics · Dashboards · Business Intelligence · Automation"
+fun_fact: "Maintains 60+ GitHub repos spanning AI, analytics & full-stack"
 ```
 
-------------------------------------------------------------------------
+- 🔭 Skilled in transforming raw data into **actionable business insights** through analytics, reporting & visualization
+- 💼 Data Specialist Intern @ **Technical Hub Private Limited** — analyzed 5,000+ record datasets, cut reporting time by **30%**
+- ⚙️ Automated workflows using **Power Automate, SharePoint & Apache Airflow**
+- 📊 Comfortable across the full analytics stack — Excel, SQL, Power BI, Python
+- 🏆 Competitive programmer — max CodeChef rating **1520**
+- 🌱 Currently sharpening skills in agentic AI systems & full-stack data platforms
 
-# 🚀 Highlights
+<br/>
 
--   📊 Data Specialist Intern @ Technical Hub
--   🤖 Passionate about AI, Analytics and Automation
--   🏆 AWS AI Practitioner & Snowflake SnowPro Associate
--   💻 60+ GitHub repositories
--   ⭐ CodeChef Max Rating: 1520
+## 🛠️ Tech Arsenal
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=python,mysql,js,react,tensorflow,git,github,docker,vscode,jupyter&theme=dark" />
 
-### Languages
+<br/><br/>
 
-Python • Java • SQL • JavaScript • PHP
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 
-### Data
+</div>
 
-Excel • Power BI • Pandas • NumPy • Snowflake
+<br/>
 
-### AI
+## 📊 GitHub Stats
 
-LLMs • TensorFlow • Prompt Engineering • Streamlit
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chopra-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chopra-14&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-### Backend
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chopra-14&theme=tokyonight&hide_border=true" />
+</div>
 
-REST APIs • Apache Airflow • ETL • Docker
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chopra-14&theme=tokyo-night&hide_border=true" width="95%" />
+</div>
 
-### Frontend
+<br/>
 
-HTML • CSS • JavaScript • React
+## 🐍 Contribution Snake
 
-------------------------------------------------------------------------
+<div align="center">
+<img src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/output/github-contribution-grid-snake.svg" width="95%" />
+</div>
 
-# 📌 Featured Projects
+> ⚠️ This animated snake needs a one-time setup (instructions below) — it slithers through your actual contribution graph.
 
-## 🛒 Campus ReShare Hub
+<br/>
 
-AI-powered Lost & Found + Student Marketplace.
+## 🏆 Top Projects
 
-**Stack** - PHP - MySQL - TensorFlow COCO-SSD - JavaScript
+<table>
+<tr>
+<td width="33%" valign="top">
 
-------------------------------------------------------------------------
+### 🥇 AI Resume Fit Scorer
+⭐⭐⭐⭐⭐ *Best Overall*
 
-## 💬 Customer Feedback Sentiment Analysis
+An ATS-style resume analyzer that scores resume-to-job fit, detects skill gaps, and gives tailored improvement recommendations — powered by LLMs and deployed with Streamlit.
 
--   Power Automate
--   AI Builder
--   SharePoint
--   Excel
--   Dashboards
+**Why it stands out:** rides the current LLM + ATS + GenAI wave, solves a real hiring-pipeline problem, and is easy to demo end-to-end in interviews.
 
-------------------------------------------------------------------------
+`Python` `Streamlit` `LLMs` `NLP` `REST APIs` `Prompt Engineering`
 
-## 🍔 Food Delivery Order Tracker
+**[→ View on GitHub](https://github.com/Chopra-14?tab=repositories)**
 
--   Apache Airflow
--   REST APIs
--   SQL
--   ETL Pipelines
+</td>
+<td width="33%" valign="top">
 
-------------------------------------------------------------------------
+### 🥈 [Campus ReShare Hub](https://github.com/Chopra-14/campus_reshare_hub)
+⭐⭐⭐⭐⭐ *Most Unique*
 
-## 🤖 AI Resume Fit Scorer
+An AI-powered campus platform combining lost-and-found management with a student marketplace, using TensorFlow COCO-SSD for image-based object detection and item matching.
 
-LLM-powered ATS Resume Analyzer with Streamlit.
+**Why it stands out:** most students build calculators or weather apps — this pairs a real marketplace with AI object detection and full backend logic. Recruiters remember it.
 
-------------------------------------------------------------------------
+`PHP` `MySQL` `HTML/CSS` `JavaScript` `TensorFlow COCO-SSD`
 
-# 📊 GitHub Analytics
+**[→ View Repository](https://github.com/Chopra-14/campus_reshare_hub)**
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=Chopra-14&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chopra-14&layout=compact&theme=tokyonight&hide_border=true" height="170"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=Chopra-14&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chopra-14&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
+</td>
+<td width="33%" valign="top">
 
-------------------------------------------------------------------------
+### 🥉 Customer Feedback Sentiment Analysis
+⭐⭐⭐⭐☆ *Underrated Gem*
 
-# 📈 Journey
+An automated feedback management system using Microsoft Forms, Power Automate, AI Builder, SharePoint, Excel, and live dashboards to turn raw feedback into sentiment insights.
 
-``` text
-2023 ─ Started B.Tech AI & ML
-   │
-2024 ─ Python • SQL • ML
-   │
-2025 ─ Data Specialist Internship
-   │
-2026 ─ AI • Airflow • Analytics • Hackathons
-   │
-2027 ─ Target: AI / Data / Software Engineer
-```
+**Why it stands out:** goes beyond plain ML — demonstrates a full business workflow: automation, AI Builder, reporting, and dashboarding, not just a model.
 
-------------------------------------------------------------------------
+`Power Automate` `AI Builder` `SharePoint` `Excel` `Dashboards`
 
-# 🎓 Certifications
+**[→ View on GitHub](https://github.com/Chopra-14?tab=repositories)**
 
--   AWS Certified AI Practitioner
--   Snowflake SnowPro Associate
--   Microsoft PL-600
--   IBM Introduction to Data Science
--   Cisco Programming Essentials
+</td>
+</tr>
+</table>
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 💻 Coding Profiles
+**[→ Explore All 60+ Repositories](https://github.com/Chopra-14?tab=repositories)**
 
--   LeetCode
--   CodeChef
--   HackerRank
--   GeeksforGeeks
--   Codeforces
+</div>
 
-------------------------------------------------------------------------
+<br/>
 
-# 💭 Philosophy
+## 💻 Coding Profiles
 
-> **"Turning data into decisions, and ideas into intelligent
-> software."**
+<div align="center">
 
-------------------------------------------------------------------------
+<a href="https://leetcode.com/u/chopra05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://codeforces.com/profile/lakshmi_sathvika"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/chopra05"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/sathvikakomk16/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/sathvikakonakal1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 
-# 📫 Connect
+</div>
 
-📧 sathvikakonakalla14@gmail.com
+<br/>
 
-💼 LinkedIn:
-https://www.linkedin.com/in/chopra-lakshmi-sathvika-konakalla-884071291/
+## 🎓 Certifications
 
-💻 GitHub: https://github.com/Chopra-14
+<div align="center">
 
-------------------------------------------------------------------------
+<img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake%20SnowPro%20Associate-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20(PL--600)-742774?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM%20Intro%20to%20Data%20Science-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco%20Programming%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 
-```{=html}
-<p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6A5ACD&height=120&section=footer"/>`{=html}
-```{=html}
-</p>
-```
+</div>
+
+<br/>
+
+<div align="center">
+
+## 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/chopra-lakshmi-sathvika-konakalla-884071291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sathvikakonakalla14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Chopra-14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6A5ACD&height=120&section=footer" />
+
+</div> 
