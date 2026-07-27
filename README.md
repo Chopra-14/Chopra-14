@@ -66,6 +66,36 @@ AI-powered lost-and-found + student marketplace platform using TensorFlow COCO-S
 
 ---
 
+### 💻 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/u/chopra05/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/lakshmi_sathvika">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/chopra05">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sathvikakomk16/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sathvikakonakal1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+| Platform | Profile |
+|---|---|
+| LeetCode | [chopra05](https://leetcode.com/u/chopra05/) |
+| Codeforces | [lakshmi_sathvika](https://codeforces.com/profile/lakshmi_sathvika) |
+| CodeChef | [chopra05](https://www.codechef.com/users/chopra05) |
+| GeeksforGeeks | [sathvikakomk16](https://www.geeksforgeeks.org/user/sathvikakomk16/) |
+| HackerRank | [sathvikakonakal1](https://www.hackerrank.com/profile/sathvikakonakal1) |
+
+---
+
 ### 🎓 Certifications
 
 - AWS Certified AI Practitioner
