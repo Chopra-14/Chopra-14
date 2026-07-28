@@ -1,0 +1,46 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .axis { font-family: 'Segoe UI', Arial, sans-serif; font-size: 15px; fill: #334155; }
+      .pct { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; fill: #64748B; }
+      .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 20px; font-weight: 700; fill: #0F172A; }
+    </style>
+  </defs>
+  <rect width="1200" height="420" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <text x="36" y="46" class="title">Core Proficiency</text>
+  <line x1="36" y1="64" x2="120" y2="64" stroke="#F97316" stroke-width="3"/>
+
+  <g>
+    <text x="36" y="112" class="axis">Excel &amp; Power BI</text>
+    <rect x="280" y="96" width="860" height="20" rx="10" fill="#F1F5F9"/>
+    <rect x="280" y="96" height="20" rx="10" fill="#0EA5E9"><animate attributeName="width" values="0;800" dur="1.3s" fill="freeze"/></rect>
+    <text x="1150" y="112" class="pct" text-anchor="end">93%</text>
+
+    <text x="36" y="160" class="axis">Python &amp; Pandas</text>
+    <rect x="280" y="144" width="860" height="20" rx="10" fill="#F1F5F9"/>
+    <rect x="280" y="144" height="20" rx="10" fill="#F97316"><animate attributeName="width" values="0;770" dur="1.3s" begin="0.1s" fill="freeze"/></rect>
+    <text x="1150" y="160" class="pct" text-anchor="end">90%</text>
+
+    <text x="36" y="208" class="axis">SQL</text>
+    <rect x="280" y="192" width="860" height="20" rx="10" fill="#F1F5F9"/>
+    <rect x="280" y="192" height="20" rx="10" fill="#10B981"><animate attributeName="width" values="0;740" dur="1.3s" begin="0.2s" fill="freeze"/></rect>
+    <text x="1150" y="208" class="pct" text-anchor="end">86%</text>
+
+    <text x="36" y="256" class="axis">Data Visualization</text>
+    <rect x="280" y="240" width="860" height="20" rx="10" fill="#F1F5F9"/>
+    <rect x="280" y="240" height="20" rx="10" fill="#0F172A"><animate attributeName="width" values="0;750" dur="1.3s" begin="0.3s" fill="freeze"/></rect>
+    <text x="1150" y="256" class="pct" text-anchor="end">88%</text>
+
+    <text x="36" y="304" class="axis">Machine Learning</text>
+    <rect x="280" y="288" width="860" height="20" rx="10" fill="#F1F5F9"/>
+    <rect x="280" y="288" height="20" rx="10" fill="#0EA5E9"><animate attributeName="width" values="0;640" dur="1.3s" begin="0.4s" fill="freeze"/></rect>
+    <text x="1150" y="304" class="pct" text-anchor="end">75%</text>
+
+    <text x="36" y="352" class="axis">Workflow Automation</text>
+    <rect x="280" y="336" width="860" height="20" rx="10" fill="#F1F5F9"/>
+    <rect x="280" y="336" height="20" rx="10" fill="#F97316"><animate attributeName="width" values="0;690" dur="1.3s" begin="0.5s" fill="freeze"/></rect>
+    <text x="1150" y="352" class="pct" text-anchor="end">81%</text>
+  </g>
+
+  <text x="36" y="396" font-family="'Segoe UI', Arial, sans-serif" font-size="12" fill="#94A3B8">Self-assessed proficiency, not a formal benchmark</text>
+</svg>

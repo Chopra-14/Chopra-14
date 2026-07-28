@@ -1,0 +1,17 @@
+<svg width="1200" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="50%" stop-color="#F97316"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="100" fill="#F8FAFC"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#fAccent)"/>
+  <text x="600" y="48" font-family="'Segoe UI', Arial, sans-serif" font-size="17" font-weight="600" fill="#0F172A" text-anchor="middle">
+    Thanks for stopping by — let's build something data-driven together
+  </text>
+  <text x="600" y="74" font-family="'Segoe UI', Arial, sans-serif" font-size="13" fill="#94A3B8" text-anchor="middle">
+    Konakalla Chopra Lakshmi Sathvika &#183; Aditya University &#183; 2026
+  </text>
+</svg>

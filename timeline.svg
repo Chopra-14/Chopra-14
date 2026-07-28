@@ -1,0 +1,37 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: 'Segoe UI', Arial, sans-serif; font-size: 20px; font-weight: 700; fill: #0F172A; }
+      .year { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; font-weight: 700; }
+      .label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 14px; fill: #334155; font-weight: 600; }
+      .desc { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12px; fill: #94A3B8; }
+    </style>
+  </defs>
+  <rect width="1200" height="220" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <text x="36" y="46" class="title">Journey So Far</text>
+
+  <line x1="80" y1="120" x2="1120" y2="120" stroke="#E2E8F0" stroke-width="3"/>
+  <line x1="80" y1="120" x2="1120" y2="120" stroke="#0EA5E9" stroke-width="3">
+    <animate attributeName="x2" values="80;1120" dur="1.6s" fill="freeze"/>
+  </line>
+
+  <circle cx="150" cy="120" r="9" fill="#0EA5E9"/>
+  <text x="150" y="98" class="year" fill="#0EA5E9" text-anchor="middle">2023</text>
+  <text x="150" y="150" class="label" text-anchor="middle">B.Tech AI &amp; ML begins</text>
+  <text x="150" y="168" class="desc" text-anchor="middle">Aditya University</text>
+
+  <circle cx="480" cy="120" r="9" fill="#F97316"/>
+  <text x="480" y="98" class="year" fill="#F97316" text-anchor="middle">2025</text>
+  <text x="480" y="150" class="label" text-anchor="middle">Data Specialist Intern</text>
+  <text x="480" y="168" class="desc" text-anchor="middle">Technical Hub Pvt. Ltd.</text>
+
+  <circle cx="810" cy="120" r="9" fill="#10B981"/>
+  <text x="810" y="98" class="year" fill="#10B981" text-anchor="middle">2026</text>
+  <text x="810" y="150" class="label" text-anchor="middle">60+ projects shipped</text>
+  <text x="810" y="168" class="desc" text-anchor="middle">AI, analytics &amp; full-stack</text>
+
+  <circle cx="1080" cy="120" r="9" fill="#0F172A"/>
+  <text x="1080" y="98" class="year" fill="#0F172A" text-anchor="middle">2027</text>
+  <text x="1080" y="150" class="label" text-anchor="middle">Graduation</text>
+  <text x="1080" y="168" class="desc" text-anchor="middle">Open to opportunities</text>
+</svg>
