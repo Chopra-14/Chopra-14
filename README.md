@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/assets/banner.svg" alt="Sathvika Konakalla — Data Analyst · AI/ML Undergraduate" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/assets/banner.svg" alt="Sathvika Konakalla — Data Analyst · AI/ML Undergraduate" />
 
 <br/><br/>
 
@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/assets/kpi-cards.svg" alt="Key stats" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/assets/kpi-cards.svg" alt="Key stats" />
 </div>
 
 <br/>
@@ -32,7 +32,7 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/assets/timeline.svg" alt="Journey timeline" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/assets/timeline.svg" alt="Journey timeline" />
 </div>
 
 <br/>
@@ -40,7 +40,7 @@
 ## 🛠️ Core Proficiency
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/assets/skillchart.svg" alt="Skill proficiency chart" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/assets/skillchart.svg" alt="Skill proficiency chart" />
 </div>
 
 <br/>
@@ -197,6 +197,6 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/assets/footer.svg" alt="footer" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/assets/footer.svg" alt="footer" />
 
 </div>
