@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/banner.png" alt="Sathvika Konakalla — Data Analyst · AI/ML Undergraduate" />
+<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/banner.png" alt="Konakalla Chopra Lakshmi Sathvika — Data Analyst · AI/ML Undergraduate" />
 
 <br/><br/>
 
