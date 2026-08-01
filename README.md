@@ -16,6 +16,12 @@
 
 <br/>
 
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/kpi-cards.png" alt="Key stats" />
+</div>
+
+<br/>
+
 ## 📌 About Me
 
 - 🔭 Skilled in transforming raw data into **actionable business insights** through analytics, reporting & visualization
@@ -27,7 +33,19 @@
 
 <br/>
 
-## 🛠️ Tech Arsenal
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/timeline.png" alt="Journey timeline" />
+</div>
+
+<br/>
+
+## 🛠️ Core Proficiency
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/skillchart.png" alt="Skill proficiency chart" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -47,26 +65,11 @@
 
 <br/>
 
-## 📊 GitHub Stats <sub>(self-generated daily — not dependent on the flaky public service)</sub>
-
-<div align="center">
-<img height="165" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/profile/stats.svg" />
-<img height="165" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/profile/top-langs.svg" />
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chopra-14&hide_border=true&theme=default" />
 </div>
-
-<br/>
-
-## 🐍 Contribution Snake <sub>(animates — eats through your real contribution graph)</sub>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/output/github-contribution-grid-snake.svg" width="95%" />
-</div>
-
-> ⚠️ Requires the one-time GitHub Action setup (`snake.yml`) shared earlier — once that Action runs once, this becomes a real, continuously animated snake eating your actual daily contributions.
 
 <br/>
 
