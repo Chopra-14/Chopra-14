@@ -1,21 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/banner.png" alt="Sathvika Konakalla — Data Analyst · AI/ML Undergraduate" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:F97316,100:10B981&height=220&section=header&text=Sathvika%20Konakalla&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20AI%2FML%20Undergraduate&descAlignY=58&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+decisions;5%2C000%2B+records+%C2%B7+30%25+faster+reporting;Open+to+Data+Analyst+%26+AI%2FML+roles" alt="Typing SVG" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/chopra-lakshmi-sathvika-konakalla-884071291/"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0EA5E9&labelColor=FFFFFF" /></a>
-<a href="mailto:sathvikakonakalla14@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=F97316&labelColor=FFFFFF" /></a>
-<a href="https://github.com/Chopra-14"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0F172A&labelColor=FFFFFF" /></a>
+<a href="https://www.linkedin.com/in/chopra-lakshmi-sathvika-konakalla-884071291/"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sathvikakonakalla14@gmail.com"><img src="https://img.shields.io/badge/Gmail-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Chopra-14"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=Chopra-14&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="profile views" />
 
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/kpi-cards.png" alt="Key stats" />
 </div>
 
 <br/>
@@ -31,19 +27,7 @@
 
 <br/>
 
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/timeline.png" alt="Journey timeline" />
-</div>
-
-<br/>
-
-## 🛠️ Core Proficiency
-
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/skillchart.png" alt="Skill proficiency chart" />
-</div>
-
-<br/>
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -51,42 +35,38 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Excel-FFFFFF?style=for-the-badge&logo=microsoftexcel&logoColor=217346&labelColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Power%20BI-FFFFFF?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=FFFFFF" />
-<img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=4DABCF&labelColor=FFFFFF" />
-<img src="https://img.shields.io/badge/SharePoint-FFFFFF?style=for-the-badge&logo=microsoftsharepoint&logoColor=0078D4&labelColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Snowflake-FFFFFF?style=for-the-badge&logo=snowflake&logoColor=29B5E8&labelColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-FFFFFF?style=for-the-badge&logo=apacheairflow&logoColor=017CEE&labelColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats <sub>(self-generated daily — not dependent on the flaky public service)</sub>
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chopra-14&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=0EA5E9&icon_color=F97316&text_color=334155&ring_color=10B981" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chopra-14&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0EA5E9&text_color=334155" />
+<img height="165" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/profile/stats.svg" />
+<img height="165" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/profile/top-langs.svg" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chopra-14&hide_border=true&background=FFFFFF&ring=0EA5E9&fire=F97316&currStreakLabel=10B981&sideLabels=334155&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chopra-14&hide_border=true&bg_color=FFFFFF&color=334155&line=0EA5E9&point=F97316&area=true&area_color=10B981" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chopra-14&hide_border=true&theme=default" />
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake <sub>(animates — eats through your real contribution graph)</sub>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/output/github-contribution-grid-snake.svg" width="95%" />
 </div>
 
-> ⚠️ Needs the one-time GitHub Action setup shared earlier to activate — it slithers through your real contribution graph.
+> ⚠️ Requires the one-time GitHub Action setup (`snake.yml`) shared earlier — once that Action runs once, this becomes a real, continuously animated snake eating your actual daily contributions.
 
 <br/>
 
@@ -151,11 +131,11 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 <div align="center">
 
-<a href="https://leetcode.com/u/chopra05/"><img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=FFFFFF" /></a>
-<a href="https://codeforces.com/profile/lakshmi_sathvika"><img src="https://img.shields.io/badge/Codeforces-FFFFFF?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=FFFFFF" /></a>
-<a href="https://www.codechef.com/users/chopra05"><img src="https://img.shields.io/badge/CodeChef-FFFFFF?style=for-the-badge&logo=codechef&logoColor=5B4638&labelColor=FFFFFF" /></a>
-<a href="https://www.geeksforgeeks.org/user/sathvikakomk16/"><img src="https://img.shields.io/badge/GeeksforGeeks-FFFFFF?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=FFFFFF" /></a>
-<a href="https://www.hackerrank.com/profile/sathvikakonakal1"><img src="https://img.shields.io/badge/HackerRank-FFFFFF?style=for-the-badge&logo=hackerrank&logoColor=2EC866&labelColor=FFFFFF" /></a>
+<a href="https://leetcode.com/u/chopra05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://codeforces.com/profile/lakshmi_sathvika"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/chopra05"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/user/sathvikakomk16/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/sathvikakonakal1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 
 </div>
 
@@ -177,11 +157,11 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FFFFFF?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Snowflake%20SnowPro%20Associate-FFFFFF?style=flat-square&logo=snowflake&logoColor=29B5E8&labelColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20(PL--600)-FFFFFF?style=flat-square&logo=microsoft&logoColor=742774&labelColor=FFFFFF" />
-<img src="https://img.shields.io/badge/IBM%20Intro%20to%20Data%20Science-FFFFFF?style=flat-square&logo=ibm&logoColor=052FAD&labelColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Cisco%20Programming%20Essentials-FFFFFF?style=flat-square&logo=cisco&logoColor=1BA0D7&labelColor=FFFFFF" />
+<img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake%20SnowPro%20Associate-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20(PL--600)-742774?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM%20Intro%20to%20Data%20Science-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco%20Programming%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 
 </div>
 
@@ -191,12 +171,12 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 ## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/chopra-lakshmi-sathvika-konakalla-884071291/"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0EA5E9&labelColor=FFFFFF" /></a>
-<a href="mailto:sathvikakonakalla14@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=F97316&labelColor=FFFFFF" /></a>
-<a href="https://github.com/Chopra-14"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0F172A&labelColor=FFFFFF" /></a>
+<a href="https://www.linkedin.com/in/chopra-lakshmi-sathvika-konakalla-884071291/"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sathvikakonakalla14@gmail.com"><img src="https://img.shields.io/badge/Gmail-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Chopra-14"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/footer.png" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=120&section=footer" />
 
 </div>
