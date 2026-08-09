@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:F97316,100:10B981&height=220&section=header&text=Sathvika%20Konakalla&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20AI%2FML%20Undergraduate&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:F97316,100:10B981&height=220&section=header&text=Konakalla%20Chopra%20Lakshmi%20Sathvika&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20AI%2FML%20Undergraduate&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+decisions;5%2C000%2B+records+%C2%B7+30%25+faster+reporting;Open+to+Data+Analyst+%26+AI%2FML+roles" alt="Typing SVG" />
 
