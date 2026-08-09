@@ -68,7 +68,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chopra-14&hide_border=true&theme=default" />
+<img src="https://streak-stats.demolab.com/?user=Chopra-14&hide_border=true&theme=default" />
 </div>
 
 <br/>
