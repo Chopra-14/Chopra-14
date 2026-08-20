@@ -39,11 +39,13 @@
 
 <br/>
 
-## 🛠️ Core Proficiency
+## 🛠️ Core Proficiency <sub>(live — actual language usage across your repos)</sub>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/skillchart.png" alt="Skill proficiency chart" />
+<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chopra-14&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" />
 </div>
+
+<sup align="center">If this doesn't load, the public github-readme-stats server is occasionally down — it's a known shared-service issue, not specific to your profile. It'll come back on its own.</sup>
 
 <br/>
 
