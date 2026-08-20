@@ -42,7 +42,7 @@
 ## 🛠️ Core Proficiency <sub>(live — actual language usage across your repos)</sub>
 
 <div align="center">
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chopra-14&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" />
+<img height="220" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chopra-14&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" />
 </div>
 
 <sup align="center">If this doesn't load, the public github-readme-stats server is occasionally down — it's a known shared-service issue, not specific to your profile. It'll come back on its own.</sup>
