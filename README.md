@@ -17,8 +17,18 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/kpi-cards.png" alt="Key stats" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/kpi-cards.svg" alt="Key stats" />
 </div>
+
+<br/>
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+</div>
+
+> ⚠️ Needs the one-time GitHub Action setup below — once it runs once, this becomes a real, rotating 3D animation of your actual daily contributions, refreshing every day.
 
 <br/>
 
@@ -34,15 +44,15 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/timeline.png" alt="Journey timeline" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/timeline.svg" alt="Journey timeline" />
 </div>
 
 <br/>
 
-## 🛠️ Core Proficiency <sub>(live — bars reflect real language usage in your repos)</sub>
+## 🛠️ Core Proficiency
 
 <div align="center">
-<img width="65%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chopra-14&hide_border=true&langs_count=8&theme=default" alt="Language proficiency bars" />
+<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/skillchart.svg" alt="Skill proficiency chart" />
 </div>
 
 
