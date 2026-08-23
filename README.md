@@ -78,7 +78,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/profile/Streak stats.yml" />
+<img src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/profile/streak.svg" />
 </div>
 
 <br/>
