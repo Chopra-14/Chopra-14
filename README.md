@@ -39,10 +39,10 @@
 
 <br/>
 
-## 🛠️ Core Proficiency
+## 🛠️ Core Proficiency <sub>(live — bars reflect real language usage in your repos)</sub>
 
 <div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/skillchart.png" alt="Skill proficiency chart" />
+<img width="65%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chopra-14&hide_border=true&langs_count=8&theme=default" alt="Language proficiency bars" />
 </div>
 
 
