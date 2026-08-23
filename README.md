@@ -28,7 +28,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
 </div>
 
-> ⚠️ Needs the one-time GitHub Action setup below — once it runs once, this becomes a real, rotating 3D animation of your actual daily contributions, refreshing every day.
 
 <br/>
 
