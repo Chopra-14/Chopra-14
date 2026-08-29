@@ -181,11 +181,10 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Snowflake%20SnowPro%20Associate-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20(PL--600)-742774?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM%20Intro%20to%20Data%20Science-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco%20Programming%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake%20SnowPro%20Associate-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20Developer%20(PL--400)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20Solution%20Architect%20(PL--600)-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 </div>
 
