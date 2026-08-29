@@ -2,11 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:F97316,100:10B981&height=220&section=header&text=Konakalla%20Chopra%20Lakshmi%20Sathvika&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20AI%2FML%20Undergraduate&descAlignY=58&descSize=18" />
 
-<<<<<<< HEAD
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+decisions;5%2C000%2B+records+%C2%B7+30%25+faster+reporting;Open+to+Data+Analyst+%26+AI%2FML+roles" alt="Typing SVG" />
-=======
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+decisions;5%2C000%2B+records+%C2%B7+30%25+faster+reporting;Open+to+Data+Analyst+%26+AI%2FML+roles;Building+AI-driven+Analytics+Systems" alt="Typing SVG" />
->>>>>>> f5ca235 (Updated codes)
 
 <br/><br/>
 
@@ -14,11 +10,8 @@
 <a href="mailto:sathvikakonakalla14@gmail.com"><img src="https://img.shields.io/badge/Gmail-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Chopra-14"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<<<<<<< HEAD
-=======
 <br/><br/>
 
->>>>>>> f5ca235 (Updated codes)
 <img src="https://komarev.com/ghpvc/?username=Chopra-14&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
@@ -31,18 +24,6 @@
 
 <br/>
 
-<<<<<<< HEAD
-## 🧊 3D Contribution Graph
-
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
-</div>
-
-
-<br/>
-
-=======
->>>>>>> f5ca235 (Updated codes)
 ## 📌 About Me
 
 - 🔭 Skilled in transforming raw data into **actionable business insights** through analytics, reporting & visualization
@@ -54,23 +35,6 @@
 
 <br/>
 
-<<<<<<< HEAD
-<div align="center">
-<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/timeline.svg" alt="Journey timeline" />
-</div>
-
-<br/>
-
-## 🛠️ Core Proficiency
-
-<div align="center">
-<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/skillchart.svg" alt="Skill proficiency chart" />
-</div>
-
-
-<br/>
-
-=======
 <details open>
 <summary><b>🗺️ Journey Timeline & Skill Proficiency (Click to Expand / Collapse)</b></summary>
 <br/>
@@ -85,7 +49,6 @@
 
 ## 🛠️ Tech Stack & Interactive Tools
 
->>>>>>> f5ca235 (Updated codes)
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,js,react,tensorflow,git,github,docker,vscode,jupyter" />
@@ -104,12 +67,6 @@
 
 <br/>
 
-<<<<<<< HEAD
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/profile/streak.svg" />
-=======
 ## 📊 Live GitHub Analytics & Dynamic Stats
 
 <div align="center">
@@ -121,14 +78,10 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chopra-14&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
->>>>>>> f5ca235 (Updated codes)
 </div>
 
 <br/>
 
-<<<<<<< HEAD
-## 🏆 Top Projects
-=======
 ## 🧊 3D Contribution Graph
 
 <div align="center">
@@ -142,7 +95,6 @@
 <details open>
 <summary><b>🚀 Click to View Featured Repositories</b></summary>
 <br/>
->>>>>>> f5ca235 (Updated codes)
 
 <table>
 <tr>
@@ -197,17 +149,11 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 </div>
 
-<<<<<<< HEAD
-<br/>
-
-## 💻 Coding Profiles
-=======
 </details>
 
 <br/>
 
 ## 💻 Competitive Programming & Coding Profiles
->>>>>>> f5ca235 (Updated codes)
 
 <div align="center">
 
@@ -217,19 +163,6 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 <a href="https://www.geeksforgeeks.org/user/sathvikakomk16/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/profile/sathvikakonakal1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 
-<<<<<<< HEAD
-</div>
-
-<div align="center">
-
-| Platform | Handle |
-|:---:|:---:|
-| 🟧 LeetCode | [chopra05](https://leetcode.com/u/chopra05/) |
-| 🟦 Codeforces | [lakshmi_sathvika](https://codeforces.com/profile/lakshmi_sathvika) |
-| 🟫 CodeChef | [chopra05](https://www.codechef.com/users/chopra05) *(max rating 1520)* |
-| 🟩 GeeksforGeeks | [sathvikakomk16](https://www.geeksforgeeks.org/user/sathvikakomk16/) |
-| 🟢 HackerRank | [sathvikakonakal1](https://www.hackerrank.com/profile/sathvikakonakal1) |
-=======
 <br/><br/>
 
 | Platform | Handle | Rating / Status |
@@ -239,7 +172,6 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 | 🟫 CodeChef | [chopra05](https://www.codechef.com/users/chopra05) | **Max Rating: 1520** |
 | 🟩 GeeksforGeeks | [sathvikakomk16](https://www.geeksforgeeks.org/user/sathvikakomk16/) | Practice & Articles |
 | 🟢 HackerRank | [sathvikakonakal1](https://www.hackerrank.com/profile/sathvikakonakal1) | Verified Badges |
->>>>>>> f5ca235 (Updated codes)
 
 </div>
 
@@ -261,11 +193,7 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 <div align="center">
 
-<<<<<<< HEAD
-## 📫 Let's Connect
-=======
 ## 📫 Let's Connect & Collaborate!
->>>>>>> f5ca235 (Updated codes)
 
 <a href="https://www.linkedin.com/in/chopra-lakshmi-sathvika-konakalla-884071291/"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sathvikakonakalla14@gmail.com"><img src="https://img.shields.io/badge/Gmail-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -276,7 +204,5 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=120&section=footer" />
 
 </div>
-<<<<<<< HEAD
-=======
 
->>>>>>> f5ca235 (Updated codes)
+
