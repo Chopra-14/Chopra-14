@@ -82,11 +82,13 @@
 
 <br/>
 
-## 🧊 3D Contribution Graph
-
+<details open>
+<summary><b>🧊 3D Contribution Graph & Activity Analytics (Click to Expand / Collapse)</b></summary>
+<br/>
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
 </div>
+</details>
 
 <br/>
 
