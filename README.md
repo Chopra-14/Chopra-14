@@ -65,9 +65,14 @@
 
 </div>
 
-<br/>
-
 <div align="center">
+
+## 📊 Live GitHub Analytics & Dynamic Stats
+
+<img src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/profile/stats.svg" alt="GitHub Stats" />
+<img src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/profile/top-langs.svg" alt="Top Languages" />
+
+<br/><br/>
 
 <img src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/profile/streak.svg" alt="Streak Stats" />
 
