@@ -67,16 +67,9 @@
 
 <br/>
 
-## 📊 Live GitHub Analytics & Dynamic Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chopra-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chopra-14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chopra-14&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/profile/streak.svg" alt="Streak Stats" />
 
 </div>
 
