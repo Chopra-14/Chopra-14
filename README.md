@@ -181,11 +181,11 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 <div align="center">
 
-<a href="https://aws.amazon.com/verification" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<a href="https://achieve.snowflake.com/validation" target="_blank"><img src="https://img.shields.io/badge/Snowflake%20SnowPro%20Associate-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /></a>
-<a href="https://learn.microsoft.com/en-gb/users/sathvikakonakalla-7943/credentials/certification/power-platform-developer-associate?tab=credentials-tab" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20Developer%20(PL--400)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-<a href="https://learn.microsoft.com/en-gb/users/sathvikakonakalla-7943/credentials/certification/power-platform-solution-architect-expert?tab=credentials-tab" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20Solution%20Architect%20(PL--600)-742774?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/f86315d6-1ea4-4253-a841-856944c90904" target="_blank"><img src="https://img.shields.io/badge/IBM%20Getting%20Started%20with%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+<a href="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/certificates/aws_ai_practitioner.pdf" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<a href="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/certificates/snowflake.png" target="_blank"><img src="https://img.shields.io/badge/Snowflake%20SnowPro%20Associate-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /></a>
+<a href="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/certificates/power_platform_pl400.png" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20Developer%20(PL--400)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+<a href="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/certificates/power_platform_pl600.png" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20Solution%20Architect%20(PL--600)-742774?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+<a href="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/certificates/ibm_ai.png" target="_blank"><img src="https://img.shields.io/badge/IBM%20Getting%20Started%20with%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
 
 </div>
 
