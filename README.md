@@ -100,7 +100,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🥇 AI Resume Fit Scorer
+### 🥇 [AI Resume Fit Scorer](https://github.com/Chopra-14/AI-Resume-Fit-Scorer)
 ⭐⭐⭐⭐⭐ *Best Overall*
 
 An ATS-style resume analyzer that scores resume-to-job fit, detects skill gaps, and gives tailored improvement recommendations — powered by LLMs and deployed with Streamlit.
@@ -109,7 +109,7 @@ An ATS-style resume analyzer that scores resume-to-job fit, detects skill gaps, 
 
 `Python` `Streamlit` `LLMs` `NLP` `REST APIs` `Prompt Engineering`
 
-**[→ View on GitHub](https://github.com/Chopra-14?tab=repositories)**
+**[→ View Repository](https://github.com/Chopra-14/AI-Resume-Fit-Scorer)**
 
 </td>
 <td width="33%" valign="top">
@@ -128,7 +128,7 @@ An AI-powered campus platform combining lost-and-found management with a student
 </td>
 <td width="33%" valign="top">
 
-### 🥉 Customer Feedback Sentiment Analysis
+### 🥉 [Customer Feedback Sentiment Analysis](https://github.com/Chopra-14/Customer-Feedback-Sentiment-Analysis)
 ⭐⭐⭐⭐☆ *Underrated Gem*
 
 An automated feedback management system using Microsoft Forms, Power Automate, AI Builder, SharePoint, Excel, and live dashboards to turn raw feedback into sentiment insights.
@@ -137,7 +137,7 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 `Power Automate` `AI Builder` `SharePoint` `Excel` `Dashboards`
 
-**[→ View on GitHub](https://github.com/Chopra-14?tab=repositories)**
+**[→ View Repository](https://github.com/Chopra-14/Customer-Feedback-Sentiment-Analysis)**
 
 </td>
 </tr>
