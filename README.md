@@ -100,7 +100,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🥇 [AI Resume Fit Scorer](https://github.com/Chopra-14/AI-Resume-Fit-Scorer)
+### 🥇 [AI Resume Fit Scorer](https://github.com/Chopra-14/ai-mentor-portfolio)
 ⭐⭐⭐⭐⭐ *Best Overall*
 
 An ATS-style resume analyzer that scores resume-to-job fit, detects skill gaps, and gives tailored improvement recommendations — powered by LLMs and deployed with Streamlit.
@@ -109,7 +109,7 @@ An ATS-style resume analyzer that scores resume-to-job fit, detects skill gaps, 
 
 `Python` `Streamlit` `LLMs` `NLP` `REST APIs` `Prompt Engineering`
 
-**[→ View Repository](https://github.com/Chopra-14/AI-Resume-Fit-Scorer)**
+**[→ View Repository](https://github.com/Chopra-14/ai-mentor-portfolio)**
 
 </td>
 <td width="33%" valign="top">
