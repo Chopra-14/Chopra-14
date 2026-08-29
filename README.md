@@ -128,7 +128,7 @@ An AI-powered campus platform combining lost-and-found management with a student
 </td>
 <td width="33%" valign="top">
 
-### 🥉 [Customer Feedback Sentiment Analysis](https://github.com/Chopra-14/Customer-Feedback-Sentiment-Analysis)
+### 🥉 [Customer Feedback Sentiment Analysis](https://github.com/Chopra-14/customer-feedback-sentiment-analysis)
 ⭐⭐⭐⭐☆ *Underrated Gem*
 
 An automated feedback management system using Microsoft Forms, Power Automate, AI Builder, SharePoint, Excel, and live dashboards to turn raw feedback into sentiment insights.
@@ -137,7 +137,7 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 `Power Automate` `AI Builder` `SharePoint` `Excel` `Dashboards`
 
-**[→ View Repository](https://github.com/Chopra-14/Customer-Feedback-Sentiment-Analysis)**
+**[→ View Repository](https://github.com/Chopra-14/customer-feedback-sentiment-analysis)**
 
 </td>
 </tr>
