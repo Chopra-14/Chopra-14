@@ -78,6 +78,11 @@
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Chopra-14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chopra-14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+
+<br/><br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chopra-14&theme=tokyonight&hide_border=true" alt="Live Dynamic GitHub Streak" />
 
 </div>
