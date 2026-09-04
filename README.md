@@ -76,6 +76,14 @@
 
 <br/>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chopra-14&theme=tokyonight&hide_border=true" alt="Live Dynamic GitHub Streak" />
+
+</div>
+
+<br/>
+
 <details open>
 <summary><b>🧊 3D Contribution Graph & Activity Analytics (Click to Expand / Collapse)</b></summary>
 <br/>
