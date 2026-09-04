@@ -74,12 +74,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/profile/streak.svg" alt="Streak Stats" />
-
-</div>
-
 <br/>
 
 <details open>
