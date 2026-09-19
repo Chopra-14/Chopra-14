@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/kpi-cards.svg" alt="Key stats" />
+<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/kpi-cards.png" alt="Key stats" />
 </div>
 
 <br/>
@@ -34,7 +34,7 @@
 <br/>
 
 <div align="center">
-<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/timeline.svg" alt="Journey timeline" />
+<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/timeline.png" alt="Journey timeline" />
 </div>
 
 <br/>
@@ -42,7 +42,7 @@
 ## 🛠️ Core Proficiency
 
 <div align="center">
-<img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/skillchart.svg" alt="Skill proficiency chart" />
+<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/skillchart.png" alt="Skill proficiency chart" />
 </div>
 
 
