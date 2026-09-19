@@ -2,15 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:F97316,100:10B981&height=220&section=header&text=Konakalla%20Chopra%20Lakshmi%20Sathvika&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20AI%2FML%20Undergraduate&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+decisions;5%2C000%2B+records+%C2%B7+30%25+faster+reporting;Open+to+Data+Analyst+%26+AI%2FML+roles;Building+AI-driven+Analytics+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=680&lines=Turning+raw+data+into+decisions;5%2C000%2B+records+%C2%B7+30%25+faster+reporting;Open+to+Data+Analyst+%26+AI%2FML+roles" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/chopra-lakshmi-sathvika-konakalla-884071291/"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sathvikakonakalla14@gmail.com"><img src="https://img.shields.io/badge/Gmail-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/Chopra-14"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Chopra-14&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="profile views" />
 
@@ -35,76 +33,46 @@
 
 <br/>
 
-<details open>
-<summary><b>🗺️ Journey Timeline & Skill Proficiency (Click to Expand / Collapse)</b></summary>
-<br/>
 <div align="center">
 <img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/timeline.svg" alt="Journey timeline" />
-<br/><br/>
+</div>
+
+<br/>
+
+## 🛠️ Core Proficiency
+
+<div align="center">
 <img width="100%" src="https://cdn.jsdelivr.net/gh/Chopra-14/Chopra-14@main/skillchart.svg" alt="Skill proficiency chart" />
 </div>
-</details>
+
 
 <br/>
 
-## 🛠️ Tech Stack & Interactive Tools
-
 <div align="center">
 
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-<a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a>
-<a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=python,mysql,js,react,tensorflow,git,github,docker,vscode,jupyter" />
 
 <br/><br/>
 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></a>
-<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-<a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank"><img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" /></a>
-<a href="https://www.snowflake.com/" target="_blank"><img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /></a>
-<a href="https://airflow.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chopra-14&theme=tokyonight&hide_border=true" alt="Live Dynamic GitHub Streak" />
-
-</div>
-
-<br/>
-
-<details open>
-<summary><b>🧊 3D Contribution Graph & Activity Analytics (Click to Expand / Collapse)</b></summary>
-<br/>
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
-</div>
-</details>
-
-<br/>
-
-## 🏆 Featured Projects
-
-<details open>
-<summary><b>🚀 Click to View Featured Repositories</b></summary>
-<br/>
+## 🏆 Top Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🥇 [AI Resume Fit Scorer](https://github.com/Chopra-14/ai-mentor-portfolio)
+### 🥇 AI Resume Fit Scorer
 ⭐⭐⭐⭐⭐ *Best Overall*
 
 An ATS-style resume analyzer that scores resume-to-job fit, detects skill gaps, and gives tailored improvement recommendations — powered by LLMs and deployed with Streamlit.
@@ -113,7 +81,7 @@ An ATS-style resume analyzer that scores resume-to-job fit, detects skill gaps, 
 
 `Python` `Streamlit` `LLMs` `NLP` `REST APIs` `Prompt Engineering`
 
-**[→ View Repository](https://github.com/Chopra-14/ai-mentor-portfolio)**
+**[→ View on GitHub](https://github.com/Chopra-14?tab=repositories)**
 
 </td>
 <td width="33%" valign="top">
@@ -132,7 +100,7 @@ An AI-powered campus platform combining lost-and-found management with a student
 </td>
 <td width="33%" valign="top">
 
-### 🥉 [Customer Feedback Sentiment Analysis](https://github.com/Chopra-14/customer-feedback-sentiment-analysis)
+### 🥉 Customer Feedback Sentiment Analysis
 ⭐⭐⭐⭐☆ *Underrated Gem*
 
 An automated feedback management system using Microsoft Forms, Power Automate, AI Builder, SharePoint, Excel, and live dashboards to turn raw feedback into sentiment insights.
@@ -141,7 +109,7 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 `Power Automate` `AI Builder` `SharePoint` `Excel` `Dashboards`
 
-**[→ View Repository](https://github.com/Chopra-14/customer-feedback-sentiment-analysis)**
+**[→ View on GitHub](https://github.com/Chopra-14?tab=repositories)**
 
 </td>
 </tr>
@@ -153,11 +121,9 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 </div>
 
-</details>
-
 <br/>
 
-## 💻 Competitive Programming & Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
 
@@ -167,15 +133,17 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 <a href="https://www.geeksforgeeks.org/user/sathvikakomk16/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/profile/sathvikakonakal1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 
-<br/><br/>
+</div>
 
-| Platform | Handle | Rating / Status |
-|:---:|:---:|:---:|
-| 🟧 LeetCode | [chopra05](https://leetcode.com/u/chopra05/) | Active Problem Solver |
-| 🟦 Codeforces | [lakshmi_sathvika](https://codeforces.com/profile/lakshmi_sathvika) | Contest Participant |
-| 🟫 CodeChef | [chopra05](https://www.codechef.com/users/chopra05) | **Max Rating: 1520** |
-| 🟩 GeeksforGeeks | [sathvikakomk16](https://www.geeksforgeeks.org/user/sathvikakomk16/) | Practice & Articles |
-| 🟢 HackerRank | [sathvikakonakal1](https://www.hackerrank.com/profile/sathvikakonakal1) | Verified Badges |
+<div align="center">
+
+| Platform | Handle |
+|:---:|:---:|
+| 🟧 LeetCode | [chopra05](https://leetcode.com/u/chopra05/) |
+| 🟦 Codeforces | [lakshmi_sathvika](https://codeforces.com/profile/lakshmi_sathvika) |
+| 🟫 CodeChef | [chopra05](https://www.codechef.com/users/chopra05) *(max rating 1520)* |
+| 🟩 GeeksforGeeks | [sathvikakomk16](https://www.geeksforgeeks.org/user/sathvikakomk16/) |
+| 🟢 HackerRank | [sathvikakonakal1](https://www.hackerrank.com/profile/sathvikakonakal1) |
 
 </div>
 
@@ -185,11 +153,11 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 <div align="center">
 
-<a href="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/certificates/aws_ai_practitioner.png" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<a href="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/certificates/snowflake.png" target="_blank"><img src="https://img.shields.io/badge/Snowflake%20SnowPro%20Associate-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" /></a>
-<a href="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/certificates/power_platform_pl400.png" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20Developer%20(PL--400)-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-<a href="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/certificates/power_platform_pl600.png" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20Solution%20Architect%20(PL--600)-742774?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-<a href="https://raw.githubusercontent.com/Chopra-14/Chopra-14/main/certificates/ibm_ai.png" target="_blank"><img src="https://img.shields.io/badge/IBM%20Getting%20Started%20with%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/AWS%20Certified%20AI%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Snowflake%20SnowPro%20Associate-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Power%20Platform%20(PL--600)-742774?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM%20Intro%20to%20Data%20Science-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco%20Programming%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 
 </div>
 
@@ -197,7 +165,7 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 
 <div align="center">
 
-## 📫 Let's Connect & Collaborate!
+## 📫 Let's Connect
 
 <a href="https://www.linkedin.com/in/chopra-lakshmi-sathvika-konakalla-884071291/"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sathvikakonakalla14@gmail.com"><img src="https://img.shields.io/badge/Gmail-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -208,5 +176,3 @@ An automated feedback management system using Microsoft Forms, Power Automate, A
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0EA5E9&height=120&section=footer" />
 
 </div>
-
-
